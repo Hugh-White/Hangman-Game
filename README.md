@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 This is a simple game of hangman made with .NET MAUI for cross platform compatibility. All of the words are based on software and tech words (e.g javascript, Maui, Code etc.)<br/><br/>
-I built this application to practice and learn the fundamentals of databinding in .NET MAUI. All of the UI functions and game logic are sections off in regions in the code behind of the main page.<br/><br/>
+I built this application to practice and learn the fundamentals of databinding in .NET MAUI. All of the UI functions and game logic are sectioned off in regions, in the code behind of the main page.<br/><br/>
 
 <h2>Languages/Tech Stack Used</h2>
 
